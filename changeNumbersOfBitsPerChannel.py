@@ -8,7 +8,7 @@ class ClassForChangeNumbersOfBitsPerChannel:
         self.image = image
         self.height = image.shape[0]
         self.width = image.shape[1]
-        self.defaultDirectory2Save = '/home/raul/Pictures/test-result3.jpg'
+        self.defaultDirectory2Save = '~/Pictures/test-result3.jpg'
         self.initialBitsPerChannel = 8
         self.initialValuesPerChannel = 2 ** self.initialBitsPerChannel 
         self.newBitsPerChannel = newBitsPerChannel 

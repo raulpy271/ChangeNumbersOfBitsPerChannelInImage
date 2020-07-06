@@ -1,6 +1,6 @@
-Class that changes the amount of bits in each RGB channel of your photo
+#Class that changes the amount of bits in each RGB channel of your photo
 
-# Running
+## Running
 
 ```
   $ python3 -i changeNumbersOfBitsPerChannel.py
@@ -14,18 +14,18 @@ Call the writeResults() function to see the result of your photo with 2 bits per
 >>> img2bits.writeResults('person-result.jpg')
 ```
 
-# Exemples
+## Exemples
 
-## Original Image
+### Original Image
 
 ![Person](https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person.jpg)
 
-## 2 Bits Per Channel
+### 2 Bits Per Channel
 
 ![Person](https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person-result-2-bits.jpg)
 
-## 1 Bit Per Channel
+### 1 Bit Per Channel
 
 ![Person](https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person-result-1-bits.jpg)
 
-## [Image Source - this person does not exist](https://thispersondoesnotexist.com/)
+### [Image Source - this person does not exist](https://thispersondoesnotexist.com/)

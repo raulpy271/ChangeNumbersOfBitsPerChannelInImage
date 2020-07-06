@@ -18,17 +18,14 @@ Call the writeResults() function to see the result of your photo with 2 bits per
 
 ## Original Image
 
-![Person] 
-(https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person.jpg)
+![Person](https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person.jpg)
 
 ## 2 Bits Per Channel
 
-![Person] 
-(https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person-result-2-bits.jpg)
+![Person](https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person-result-2-bits.jpg)
 
 ## 1 Bit Per Channel
 
-![Person] 
-(https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person-result-1-bits.jpg)
+![Person](https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person-result-1-bits.jpg)
 
 ## [Image Source - this person does not exist](https://thispersondoesnotexist.com/)

@@ -20,11 +20,11 @@ Call the writeResults() function to see the result of your photo with 2 bits per
 
 ![Person](https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person.jpg)
 
-### 2 Bits Per Channel
+### 2 Bits Per Channel (64 possible colors)
 
 ![Person](https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person-result-2-bits.jpg)
 
-### 1 Bit Per Channel
+### 1 Bit Per Channel (8 possible colors)
 
 ![Person](https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person-result-1-bits.jpg)
 

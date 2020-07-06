@@ -1,4 +1,4 @@
-#Class that changes the amount of bits in each RGB channel of your photo
+# Class that changes the amount of bits in each RGB channel of your photo
 
 ## Running
 

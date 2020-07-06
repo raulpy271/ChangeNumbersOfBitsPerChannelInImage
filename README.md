@@ -28,4 +28,6 @@ Call the writeResults() function to see the result of your photo with 2 bits per
 
 ![Person](https://raw.githubusercontent.com/raulpy271/ChangeNumbersOfBitsPerChannelInImage/master/person-result-1-bits.jpg)
 
+---
+
 ### [Image Source - this person does not exist](https://thispersondoesnotexist.com/)
